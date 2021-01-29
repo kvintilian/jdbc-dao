@@ -1,2 +1,4 @@
-# Решение к заданию 8.3: JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
+# Решение к задания к занятию «ORM, Hibernate, Entity Lifecycle, Embedding, Relationships»
+
+Две таблицы с Hibernate
 
